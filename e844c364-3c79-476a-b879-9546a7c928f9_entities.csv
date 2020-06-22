@@ -1,0 +1,25 @@
+location,Montreal
+location,Vancouver,Burnaby 
+location,Calgary
+location,Toronto,Warden Avenue
+occasion,Christmas,December 25,Dec 25,December 25th,Yule
+occasion,Graduation,graduating,grad,graduate,commencement
+occasion,Wedding,best man,bride,groom,bridesmaid
+occasion,Congratulations,award,success
+occasion,Mother's Day,Mothering Sunday,Mum's Day,Mom's Day
+occasion,Birthday,b-day,bday,birth day
+occasion,Funeral,condolences,sorrow,grief,sympathy,wake,Shiva,celebration of life
+occasion,Retirement
+occasion,Anniversary
+occasion,Get Well,sickness,ill,disease,cancer,hospital
+occasion,Valentine's Day,February 14,valentines,Feb 14,February 14th,heart day
+relationship,mother,mama,momsie,mommy,mum,mom
+relationship,couple
+relationship,friend,trainer,professor,companion,bestie,roommate,neighbor,teacher,coach,colleague,associate,acquaintance,BFF
+relationship,relative,step,cousin,aunt,uncle,granny,grannie,grandpa,grandma,brother,sister
+relationship,father,pops,daddy,dad
+relationship,boyfriend,beau
+relationship,husband
+relationship,girlfriend,fiancee,GF
+relationship,wife
+relationship,partner
